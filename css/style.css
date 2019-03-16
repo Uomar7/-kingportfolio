@@ -19,7 +19,7 @@ h1{
 .hash{
   border: 1px;
   padding-top: 2px;
-  margin: 20px;
+  margin: 2px;
 }
 img{
   float: right;
@@ -27,4 +27,10 @@ img{
 }
 body{
   background-color: #3C3F3E;
+}
+li{
+  color: white;
+  font-size: 24px;
+  list-style-type: square;
+  list-style-position: outside;
 }
