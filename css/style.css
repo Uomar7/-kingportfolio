@@ -2,13 +2,17 @@ h1{
   text-align: center;
   font-size: 90px;
   margin-bottom: 6px;
+  margin-top: 7px;
   color: #800080;
 }
 .head{
   font-weight: bold;
   font-family: serif;
-
+  padding: 6px;
 }
-img{
-
+body{
+  style="background-image: url(king.jpg)"
+}
+.hash{
+  text-align: left;
 }
