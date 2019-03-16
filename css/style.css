@@ -17,9 +17,9 @@ h1{
   color: white;
 }
 .hash{
-  border: 4px;
-  padding: 10px;
-  margin: 4px;
+  border: 1px;
+  padding-top: 2px;
+  margin: 20px;
 }
 img{
   float: right;
