@@ -6,13 +6,7 @@ h1{
   color: #800080;
 }
 .head{
-  font-weight: bold;
-  font-family: serif;
-  padding: 6px;
-}
-body{
-  style="background-image: url(king.jpg)"
-}
-.hash{
-  text-align: left;
+  font-size: 32px;
+  color: purple;
+  margin-left: 80px;
 }
