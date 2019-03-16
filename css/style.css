@@ -10,3 +10,15 @@ h1{
   color: purple;
   margin-left: 80px;
 }
+.a{
+  font-family: fantasy;
+  font-size: 28px;
+}
+.hash{
+  border: 6px solid red;
+  padding: 30px;
+  margin: 7px;
+}
+img{
+  float: right;
+}
