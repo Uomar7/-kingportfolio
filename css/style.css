@@ -9,10 +9,12 @@ h1{
   font-size: 32px;
   color: purple;
   margin-left: 80px;
+  text-transform: uppercase;
 }
 .a{
   font-family: fantasy;
-  font-size: 28px;
+  font-size: 24px;
+  color: white;
 }
 .hash{
   border: 6px solid red;
@@ -21,4 +23,8 @@ h1{
 }
 img{
   float: right;
+  margin-top: -50px;
+}
+body{
+  background-color: #3C3F3E;
 }
