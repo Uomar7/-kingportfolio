@@ -3,11 +3,11 @@ h1{
   font-size: 90px;
   margin-bottom: 6px;
   margin-top: 7px;
-  color: #800080;
+  color: red;
 }
 .head{
   font-size: 32px;
-  color: purple;
+  color: red;
   margin-left: 80px;
   text-transform: uppercase;
 }
@@ -17,9 +17,9 @@ h1{
   color: white;
 }
 .hash{
-  border: 6px solid red;
-  padding: 30px;
-  margin: 7px;
+  border: 4px;
+  padding: 10px;
+  margin: 4px;
 }
 img{
   float: right;
