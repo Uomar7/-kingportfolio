@@ -34,3 +34,12 @@ li{
   list-style-type: square;
   list-style-position: outside;
 }
+a{
+  color: white;
+}
+@media and (min-width: 480px) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
