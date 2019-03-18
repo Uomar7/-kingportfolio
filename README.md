@@ -1,10 +1,12 @@
-# {UMAR PORTFOLIO}
-#### {This is a portfolio for Umar Ali.}, {17.03.19}
-#### By **{Uomar7}**
+# UMAR PORTFOLIO
+#### This is a portfolio for Umar Ali.
+#### By **designed by Umar Ali Ngare**
 ## Description
-{This a personal portfolio for Umar Ali. Designed for learning purposes.}
+{This is a portfolio for Umar Ali Ngare. this website contains Umar's life details i.e education Background, Work experience, and some of his hobbies.}
 ## Setup/Installation Requirements
-You can access the website across all media devices that can access first internet.
+*fork then clone the project from your terminal by typing git clone https://github.com/Uomar7/-kingportfolio.git
+*then open the downloaded folder.
+*you can then make any changes to the document using either atom . or visual studio code.
 ## Technologies Used
 {MTML and CSS to style out the headings and paragraphs. no other languages used.}
 ## Support and contact details
