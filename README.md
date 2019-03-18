@@ -8,7 +8,7 @@
 *then open the downloaded folder.
 *you can then make any changes to the document using either atom . or visual studio code.
 ## Technologies Used
-{MTML and CSS to style out the headings and paragraphs. no other languages used.}
+{HTML and CSS to style out the headings and paragraphs. no other languages used.}
 ## Support and contact details
 {Contact Uomarearlie7@gmail.com or call 0791557666 for more details.}
 ### MIT License
